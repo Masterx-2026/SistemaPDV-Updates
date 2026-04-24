@@ -1,0 +1,15 @@
+========================================
+ HISTÓRICO DE ATUALIZAÇÕES - SISTEMA PDV
+========================================
+
+Versão 12 (30/03/2026)
+- Correção do atualizador para baixar a DLL.
+- Remoção do botão de criar mês do Fluxo de Caixa (agora é automático!).
+- Otimização da tela de configurações da empresa.
+
+Versão 10 (28/03/2026)
+- Adicionado sistema de backup e restauração.
+- Melhoria na interface de vendas.
+
+Versão 9 (25/03/2026)
+- Lançamento inicial do novo layout.
